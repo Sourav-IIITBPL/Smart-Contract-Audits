@@ -1,2 +1,52 @@
-# Smart-Contract-Audits
-This repository contains various smart contracts Audits , done by me including cyfrin's first flight audits , Competitive Audit Contest and Bug Bounties . It will consists of Audit Report , relevent Code bases , ReadMe , etc..
+# Hello 👋
+
+I’m **Sourav Yadav**, a smart contract security researcher and competitive auditor, currently an engineering student at **IIIT Bhopal, India**.
+
+I actively audit DeFi and protocol-layer smart contracts across leading competitive platforms, with a strong focus on **high-impact, systemic vulnerabilities**. My work primarily targets **protocol accounting invariants, share–asset conversions, rounding and precision errors, denial-of-service vectors, and state-dependent execution failures**.
+
+I am particularly interested in issues that emerge only under realistic protocol evolution (interest accrual, virtual balances, sequencing assumptions), where subtle design flaws result in user-facing or protocol-level breakage.
+
+---
+
+## Get in Touch
+
+I’m open to:
+- private audits
+- protocol security reviews
+- long-term research collaboration
+
+**Twitter / X:** https://x.com/0xSouravAudit  
+**Discord-Server** miracles_25
+
+### Audit Profiles
+
+- **Sherlock:** https://audits.sherlock.xyz/watson/sourav_DEV  
+- **Code4rena:** https://code4rena.com/@Sourav_DEV  
+- **Cantina:** https://cantina.xyz/u/0xSourav  
+
+---
+
+## Public Contest Results
+
+Below is a summary of contests where my findings were **validated**, including **protocol type, severity, and final rank**, listed in the same order as shown on my Sherlock profile.
+
+| Platform | Protocol | Protocol Type | H/M | Rank | Result |
+|--------|----------|---------------|----------|------|--------|
+| Code4rena | Hybra Finance | DEX Infrastructure | 1 | 31 | https://code4rena.com/audits/2025-10-hybra-finance |
+| Sherlock | Super DCA Liquidity Network | DCA / Liquidity Network | 1 | #52 | https://audits.sherlock.xyz/contests/1171 |
+| Sherlock | Ammplify | AMM / Maker Protocol | 1 | #75 | https://audits.sherlock.xyz/contests/1054 |
+| Sherlock | USG – Tangent | Staking | 1 | #62 | https://audits.sherlock.xyz/contests/1073 |
+
+---
+
+## Summary
+
+- **Validated findings:** 4  
+  - High severity: 2  
+  - Medium severity: 2  
+- Platforms: **Sherlock, Code4rena, Cantina**
+- Focus areas: **Accounting correctness, mathematical invariants, protocol safety under edge conditions**
+
+---
+
+*If you are building or maintaining a protocol where correctness matters under real-world conditions, I’m happy to collaborate.*
