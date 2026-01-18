@@ -26,9 +26,9 @@ I’m open to:
 
 ---
 
-## Public Contest Results
+## Public Contest 
 
-Below is a summary of contests where my findings were **validated**, including **protocol type, severity, and final rank**, listed in the same order as shown on my Sherlock profile.
+A complete list of all my audits.
 
 | Platform | Protocol | Protocol Type | H/M | Rank | Result |
 |---------|------------------|------------------|-----|------|--------|
