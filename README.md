@@ -16,7 +16,7 @@ I’m open to:
 - long-term research collaboration
 
 **Twitter / X:** https://x.com/0xSouravAudit  
-**Discord-Server** miracles_25
+**Discord-Server:** miracles_25
 
 ### Audit Profiles
 
@@ -31,11 +31,11 @@ I’m open to:
 Below is a summary of contests where my findings were **validated**, including **protocol type, severity, and final rank**, listed in the same order as shown on my Sherlock profile.
 
 | Platform | Protocol | Protocol Type | H/M | Rank | Result |
-|--------|----------|---------------|----------|------|--------|
-| Code4rena | Hybra Finance | DEX Infrastructure | 1 | 31 | https://code4rena.com/audits/2025-10-hybra-finance |
-| Sherlock | Super DCA Liquidity Network | DCA / Liquidity Network | 1 | #52 | https://audits.sherlock.xyz/contests/1171 |
-| Sherlock | Ammplify | AMM / Maker Protocol | 1 | #75 | https://audits.sherlock.xyz/contests/1054 |
-| Sherlock | USG – Tangent | Staking | 1 | #62 | https://audits.sherlock.xyz/contests/1073 |
+|---------|------------------|------------------|-----|------|--------|
+| Code4rena | Hybra Finance | DEX Infrastructure | 1 | #31 | [↗](https://code4rena.com/audits/2025-10-hybra-finance) |
+| Sherlock | Super DCA Liquidity Network | DCA / Liquidity Network | 1 | #52 | [↗](https://audits.sherlock.xyz/contests/1171) |
+| Sherlock | Ammplify | AMM / Maker Protocol | 1 | #75 | [↗](https://audits.sherlock.xyz/contests/1054) |
+| Sherlock | USG – Tangent | Staking | 1 | #62 | [↗](https://audits.sherlock.xyz/contests/1073) |
 
 ---
 
